@@ -1,4 +1,4 @@
-# AOC
+# Puzzles
 I enjoy doing riddles and puzzles. I especially have grown fond of Advent Of Code and LeetCode, though less Leetcode I will probably make
 another repo for the problems on that site.
 I want to learn to use Rust profeciently, so I am using that, I understand that doing simple puzzles only get you so far in learning a language though I am insistant that 
